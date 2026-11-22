@@ -1,0 +1,6 @@
+{
+  "name": "MUSHRAY AI",
+  "description": "Create. Market. Grow. AI-powered digital marketing studio for small businesses, shopkeepers, creators, and online sellers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
